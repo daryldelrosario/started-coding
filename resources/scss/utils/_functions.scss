@@ -1,0 +1,8 @@
+// Toggle for universal border
+@function uni-border($toggle, $color: red) {
+    @if $toggle {
+        @return 1px solid $color;
+    } @else {
+        @return none;
+    }
+}

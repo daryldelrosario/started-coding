@@ -1,0 +1,20 @@
+{
+  "name": "started-coding",
+  "version": "1.0.0",
+  "description": "Just a timer on how long it's been since I started to learn coding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "sass --watch --no-source-map resources/scss:resources/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daryldelrosario/started-coding.git"
+  },
+  "author": "Daryl del Rosario",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daryldelrosario/started-coding/issues"
+  },
+  "homepage": "https://github.com/daryldelrosario/started-coding#readme"
+}

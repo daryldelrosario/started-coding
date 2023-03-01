@@ -1,0 +1,13 @@
+@use "../utils/" as *;
+
+// Variables for uni-border
+$toggle: false;
+$color: red;
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+    border: uni-border($toggle, $color);
+}
