@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/daryldelrosario/started-coding/issues"
   },
-  "homepage": "https://github.com/daryldelrosario/started-coding#readme"
+  "homepage": "https://github.com/daryldelrosario/started-coding#readme",
+  "devDependencies": {
+    "sass": "^1.58.3"
+  }
 }
